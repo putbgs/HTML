@@ -1,0 +1,56 @@
+* {
+  margin: 0px;
+}
+
+header {
+  background-color: #64eefa;
+  height: 82px;
+  border-bottom: 5px solid #a4efcc;
+}
+.header {
+  color: #3dbdff;
+  font-size: 25px;
+}
+h1 {
+  font-family: lucida sans;
+}
+.theme {
+  font-family: lucida sans;
+  font-size: 45px;
+}
+.content {
+  font-family: gill sans;
+  font-size: 25px;
+}
+a:link {
+  color: #a455ff;
+}
+a:hover {
+  color: #de87ff;
+}
+a:visited {
+  color: #ffbaff;
+}
+a:active {
+  color: black;
+}
+fieldset {
+  width: 90%;
+  margin: auto;
+}
+.kegiatan {
+  font-family: "Times New Roman";
+  width: 90%;
+  margin: auto;
+}
+.top {
+  background-color: #1677c5;
+  color: #111e80;
+  padding: 20px;
+  margin: auto;
+}
+
+img {
+  padding: 50px;
+  width: 450px;
+}
